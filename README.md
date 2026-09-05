@@ -344,10 +344,3 @@ However, further validation and comparison with a naive baseline are necessary t
 
 This project is intended for **educational and research purposes only**. It does not provide financial advice, investment recommendations, or guaranteed stock-price predictions.
 
-## Author
-
-**Your Name**
-
-**GitHub:** [Your GitHub Profile](https://github.com/)
-
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
